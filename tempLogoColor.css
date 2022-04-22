@@ -1,0 +1,23 @@
+body{
+	font-size:small;
+	font-family verdena, Melvectica, arial, sans-serif;
+	line-hight: 1.6em
+}
+h1,h2{
+	color:#007e7e
+}
+h2 {
+	font-size:150%;
+}
+#Here {
+	border: 1px dashed white;
+	border-radius: 25px;
+	box-shaow: 1px 10px 5px;
+	backround-color: #a7cece;
+	padding: 25px;
+	padding-left: 80px;
+	marghin: 30px;
+	font-style: italic;
+	font-family: Georgia, "New Times Roman", Times. serif;
+	color: #23c3ed;
+}
