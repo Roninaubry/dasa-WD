@@ -1,6 +1,6 @@
 body{
 	font-size:regular;
-	font-family verdena, Melvectica, arial, sans-serif;
+	font-family: verdena, Melvectica, arial, sans-serif;
 	line-hight: 1.6em
 }
 h1,h2{
@@ -16,7 +16,8 @@ h2 {
 	background-color: #64D5F2;
 	padding: 25px;
 	padding-left: 80px;
-	margin: 30px;
+	margin: 20px;
+	margin-right: 50%;
 	font-family: Georgia, "New Times Roman", Times. serif;
 	color: #010000;
 }
@@ -26,7 +27,8 @@ h2 {
 	background-color: #a1f79d;
 	padding: 25px;
 	padding-left: 80px;
-	margin: 30px;
+	margin: 20px;
+	margin-right: 50%;
 	font-family: Georgia, "New Times Roman", Times. serif;
 	color: #010000;
 }
@@ -36,7 +38,8 @@ h2 {
 	background-color: #f2ffa2;
 	padding: 25px;
 	padding-left: 80px;
-	margin: 30px;
+	margin: 20px;
+	margin-right: 50%;
 	font-family: Georgia, "New Times Roman", Times. serif;
 	color: #010000;
 }
@@ -46,7 +49,8 @@ h2 {
 	background-color: #ff7f83;
 	padding: 25px;
 	padding-left: 80px;
-	margin: 30px;
+	margin: 20px;
+	margin-right: 50%;
 	font-family: Georgia, "New Times Roman", Times. serif;
 	color: #010000;
 }
